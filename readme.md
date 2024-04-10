@@ -42,7 +42,7 @@ response = requests.get(spacex_url)
 data = pd.json_normalize(response.json())
 ```
 
-#### [Jupyter Notebook: Data Collection API](res/1-jupyter-labs-spacex-data-collection-api.ipynb)
+#### [Jupyter Notebook: Data Collection API](1-jupyter-labs-spacex-data-collection-api.ipynb)
 
 ### Web Scraping
 

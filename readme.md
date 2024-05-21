@@ -1,4 +1,4 @@
-# Applied Data Science Capstone <!-- omit in toc -->
+# SpaceX Rocket Landing Prediction <!-- omit in toc -->
 
 - [Data Collection](#data-collection)
   - [Data Collection API](#data-collection-api)

@@ -151,17 +151,17 @@ The project demonstrated that various factors like flight number, payload mass, 
 
 ## 🔗Links to Notebooks
 
-1. ![Data Collection using SpaceX API](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Data%20Collection%20using%20SpaceX%20API/Data_Collection_using_SpaceX_API.ipynb)
+1. [Data Collection using SpaceX API](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Data%20Collection%20using%20SpaceX%20API/Data_Collection_using_SpaceX_API.ipynb)
 
-2. ![Data Collection with Web Scraping](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Data%20Collection%20with%20Web%20Scraping/Webscraping.ipynb)
+2. [Data Collection with Web Scraping](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Data%20Collection%20with%20Web%20Scraping/Webscraping.ipynb)
 
-3. ![EDA with Data Visualization](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/EDA%20with%20Data%20Visualization/EDA_with_Data_Visualization.ipynb)
+3. [EDA with Data Visualization](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/EDA%20with%20Data%20Visualization/EDA_with_Data_Visualization.ipynb)
 
-4. ![EDA with SQL](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/EDA%20with%20SQL/EDA_with_SQL.ipynb)
+4. [EDA with SQL](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/EDA%20with%20SQL/EDA_with_SQL.ipynb)
 
-5. ![Interactive Map with Folium](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Interactive%20Map%20with%20Folium/Interactive%20Maps_using_folium.ipynb)
+5. [Interactive Map with Folium](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Interactive%20Map%20with%20Folium/Interactive%20Maps_using_folium.ipynb)
 
-6. ![Machine Learning Prediction](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Machine%20Learning%20Prediction/SpaceX_Machine_Learning_Prediction.ipynb)
+6. [Machine Learning Prediction](https://github.com/abhishek-sriram/SpaceX-Falcon-9-Landing-Prediction/blob/main/Machine%20Learning%20Prediction/SpaceX_Machine_Learning_Prediction.ipynb)
 
 
 

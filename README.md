@@ -1,7 +1,7 @@
 
 # SpaceX Falcon9 Landing Prediction
 
-## Introduction
+## Problem Statement
 
 SpaceX has revolutionized the space industry with its cost-effective Falcon 9 rocket launches. The primary reason for their cost efficiency is the reusability of the rocket's first stage. The objective of this project is to develop a machine learning pipeline capable of accurately predicting the success of the Falcon 9 first stage landings. By identifying and understanding the key factors that influence landing success, this project aims to provide valuable insights that can enable other competitors to improve their own launch operations and compete more effectively with SpaceX.
 

@@ -7,19 +7,19 @@ SpaceX has revolutionized the space industry with its cost-effective Falcon 9 ro
 
 ## Table of Contents
 
-1. Introduction 
-2. Methodology
-    2.1. Data Collection
-           * Using SpaceX API
-           * Webscraping from Wikipedia
-    2.2. Data Wrangling
-    2.3. Exploratoory data Analysis(EDA)
-           * Visualization
-           * SQL Queries
-           * Interactive Visual Analytics
-    2.4. Predictive Analytics
-3. Conclusion
-4. Links to Notebooks
+1. [Introduction](#introduction)
+2. [Methodology](#methodology)
+    2.1. [Data Collection](#data-collection)
+        * [Using SpaceX API](#using-spacex-api)
+        * [Web Scraping from Wikipedia](#web-scraping-from-wikipedia)
+    2.2. [Data Wrangling](#data-wrangling)
+    2.3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+        * [Visualization](#visualization)
+        * [SQL Queries](#sql-queries)
+        * [Interactive Visual Analytics](#interactive-visual-analytics)
+    2.4. [Predictive Analytics](#predictive-analytics)
+3. [Conclusion](#conclusion)
+4. [Links to Notebooks](#links-to-notebooks)
 
 ## Introduction
 
